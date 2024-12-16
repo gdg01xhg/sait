@@ -1,0 +1,15 @@
+body.vrapper {
+  background-color: #e893b0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.headline{
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em
+}
